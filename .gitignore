@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*.backup
+*.tmp
+*.lock
+lazy-lock.json
+plugin/*
